@@ -11,11 +11,10 @@ public class Test {
         System.out.println(Person);*/
 
         //Terningeopgave
-/*        Dice Dice = new Dice();
+        /*Dice Dice = new Dice();
         Dice.roll();
         int rollOnDice = Dice.getFaceValue();
         System.out.println(rollOnDice);*/
-
 
         Die[] Die = new Die[5];
         int sum =0;
