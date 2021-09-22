@@ -1,10 +1,10 @@
 package com.company;
 
-public class Dice {
+public class Die {
     private int faceValue;
 
-    public Dice(){
-
+    public Die(){
+    this.roll();
     }
 
     public void roll() {
